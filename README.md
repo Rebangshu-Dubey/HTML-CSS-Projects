@@ -23,3 +23,5 @@ frontend web development.
 - [ ] Responsive Web Design
 - [ ] Advanced CSS
 - [ ] Web Development Projects
+# HTML-CSS-Projects
+My HTML and CSS learning journey, practice exercises , and web development projects
