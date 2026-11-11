@@ -1,0 +1,13 @@
+.container {
+    color: red;
+    font-family: Arial, sans-serif;
+    background-color: lightyellow;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+p {
+    color: blue;
+    font-size: 14
+    px;
+}
